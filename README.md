@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+#### Github Stars
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-z-y&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### The current commonly used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-z-y)](https://github.com/anuraghazra/github-readme-stats)
