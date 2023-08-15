@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-z-y)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://raw.githubusercontent.com/Ming-z-y/Ming-z-y/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Ming-z-y/Ming-z-y/main/assets/github-contribution-grid-snake.svg)
